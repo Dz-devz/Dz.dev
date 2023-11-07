@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DzPenz
+- 👋 Hi, I’m @Dz-devz
 - 👀 I’m interested in Web Development and Full Stack Development.
 - 🌱 I’m currently learning MySql
 - 📫 How to reach me www.linkedin.com/in/darwinbjordan
